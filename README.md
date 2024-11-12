@@ -19,8 +19,8 @@ Beyond coding, I'm passionate about:
 - Video games 🎮 (especially NBA 2K, Madden, and Rainbow 6)
 
 ## 📫 Let's Connect!
-- LinkedIn: [](https://www.linkedin.com/in/ryan-montoyo/)
-- Portfolio: [](https://montoyo.dev/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ryan-montoyo/)
+- Portfolio: [montoyo.dev](https://montoyo.dev/)
 
 ---
 
