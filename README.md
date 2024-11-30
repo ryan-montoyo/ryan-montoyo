@@ -9,8 +9,7 @@ I'm a senior Computer Science student at Hunter College, pursuing my passion for
 
 ## 🌟 Highlighted Projects
 - **Fitting Room App:** An iOS app that lets users create and manage digital closets using Firebase, featuring outfit creation and ML-based background removal.
-- **Rainbow Six Siege Scout:** A Swift app to scan player data from in-game scoreboards, analyze game ranks, and retrieve related information.
-- **Job Application Tracker:** A personal website to manage my job applications, built with ReactJS and Firebase.
+- **Rainbow Six Siege Scout:** An iOS app to scan in-game scoreboards, and fetch game ranks, stats, and  other player related information.
 
 ## 💡 Interests
 Beyond coding, I'm passionate about:
