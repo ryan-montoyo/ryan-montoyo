@@ -4,7 +4,7 @@ I'm a senior Computer Science student at Hunter College, pursuing my passion for
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Swift, JavaScript, Kotlin, C++, SQL, Python
-- **Frameworks/Libraries:** ReactJS, Firebase, Flask, Bootstrap
+- **Frameworks/Libraries:** ReactJS, Firebase, Django, Flask, Bootstrap
 - **Tools:** Xcode, Git, HTML/CSS/SCSS, TypeScript
 
 ## 🌟 Highlighted Projects
